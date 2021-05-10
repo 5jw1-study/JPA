@@ -30,7 +30,8 @@
 ## 발표 자료
 ### Chap 1. JPA 소개
 - url 링크 (정성진)
-- [김주찬](http://blue564.cafe24.com/?p=373)
 ### Chap 2. JPA 시작
 
 ### Chap 3. 영속성 관리
+- [김주찬](http://blue564.cafe24.com/?p=373)
+
