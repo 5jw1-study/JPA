@@ -31,6 +31,7 @@
 ### Chap 1. JPA 소개
 - [정성진](https://docs.google.com/presentation/d/10y2VMZ62AG3MN-RdushdVLh8Sy502R5lyQMXSCfyOmI/edit?usp=sharing)
 ### Chap 2. JPA 시작
+- [정성진](https://docs.google.com/presentation/d/1mr29Pl_tuJaXYdJ91nO3CPvC3En_YdPjNh0lmxvFj-Y/edit?usp=sharing)
 
 ### Chap 3. 영속성 관리
 - [김주찬](http://blue564.cafe24.com/?p=373)
