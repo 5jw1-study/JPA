@@ -35,4 +35,4 @@
 
 ### Chap 3. 영속성 관리
 - [김주찬](http://blue564.cafe24.com/?p=373)
-
+- [정성진](https://docs.google.com/presentation/d/1EuZCCxnpYuwyxh_WD4x4l9Pc_McBBiwzfME26sRj_6U/edit?usp=sharing)
