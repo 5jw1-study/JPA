@@ -33,3 +33,5 @@
 ### Chap 2. JPA 시작
 
 ### Chap 3. 영속성 관리
+- [김주찬](http://blue564.cafe24.com/?p=373)
+
