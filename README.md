@@ -38,5 +38,6 @@
 ### Chap 3. 영속성 관리
 - [김주찬](http://blue564.cafe24.com/?p=373)
 - [정성진](https://docs.google.com/presentation/d/1EuZCCxnpYuwyxh_WD4x4l9Pc_McBBiwzfME26sRj_6U/edit?usp=sharing)
+- [이우원](https://www.notion.so/3-e77319a0a86e475d8263e19a825c65cc)
 - [강현지](https://devwari.tistory.com/)
 - [정종욱](https://www.notion.so/jong9/1-JPA-1-3-7d22fe087ac44701803b1d0bd17ba530)
