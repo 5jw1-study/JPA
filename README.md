@@ -46,6 +46,7 @@
 
 ### Chap 4. 엔티티 매핑
 - [강현지](https://devwari.tistory.com/12?category=985460)
+- [정성진](https://docs.google.com/presentation/d/1tE8iy1uFOI2kdplIh8FWuOZUAQsKt7DMvhkG_nfqxqw/edit?usp=sharing)
 
 ### Chap 5. 연관관계 매핑 기초
 - [강현지](https://devwari.tistory.com/13?category=985460)
