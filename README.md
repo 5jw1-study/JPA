@@ -43,3 +43,9 @@
 - [이우원](https://www.notion.so/3-e77319a0a86e475d8263e19a825c65cc)
 - [강현지](https://devwari.tistory.com/)
 - [정종욱](https://www.notion.so/jong9/1-JPA-1-3-7d22fe087ac44701803b1d0bd17ba530)
+
+### Chap 4. 엔티티 매핑
+- [강현지](https://devwari.tistory.com/12?category=985460)
+
+### Chap 5. 연관관계 매핑 기초
+- [강현지](https://devwari.tistory.com/13?category=985460)
