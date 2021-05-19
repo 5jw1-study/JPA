@@ -50,3 +50,4 @@
 
 ### Chap 5. 연관관계 매핑 기초
 - [강현지](https://devwari.tistory.com/13?category=985460)
+- [정성진](https://docs.google.com/presentation/d/1JrOP221E4mQ-PxEF11Is0IiH-dbJXd87hF2kjaddmT4/edit?usp=sharing)
