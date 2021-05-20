@@ -48,8 +48,12 @@
 - [강현지](https://devwari.tistory.com/12?category=985460)
 - [정성진](https://docs.google.com/presentation/d/1tE8iy1uFOI2kdplIh8FWuOZUAQsKt7DMvhkG_nfqxqw/edit?usp=sharing)
 - [김주찬](http://blue564.cafe24.com/?p=389)
+- [정종욱](https://www.notion.so/jong9/2-JPA-4-518ef18b8c19492eaaf2265fd468da35)
+- [이우원](https://www.notion.so/4-8d0f8a9c99224fc486fa4cee5fa752be)
 
 ### Chap 5. 연관관계 매핑 기초
 - [강현지](https://devwari.tistory.com/13?category=985460)
 - [정성진](https://docs.google.com/presentation/d/1JrOP221E4mQ-PxEF11Is0IiH-dbJXd87hF2kjaddmT4/edit?usp=sharing)
 - [김주찬](http://blue564.cafe24.com/?p=395)
+- [정종욱](https://www.notion.so/jong9/2-JPA-5-c67c22dbf23349d1a2ac63ea7fb78361)
+- [이우원](https://www.notion.so/5-201f81b4b64143b3bd92f693de190526)
