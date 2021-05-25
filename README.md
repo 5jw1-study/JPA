@@ -62,3 +62,4 @@
 ### Chap 6. 다양한 연관관계 매핑
 - [강현지](https://devwari.tistory.com/14)
 - [정성진](https://docs.google.com/presentation/d/1jIBajogAao8Vnt_y6ccfETdKj6rQt62BO5FeqO_hqck/edit?usp=sharing)
+- [이우원](https://www.notion.so/6-9a1b06e75ee4482681b63c76a0ab4642)
