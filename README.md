@@ -58,7 +58,7 @@
 - [김주찬](http://blue564.cafe24.com/?p=395)
 - [정종욱](https://www.notion.so/jong9/2-JPA-5-c67c22dbf23349d1a2ac63ea7fb78361)
 - [이우원](https://www.notion.so/5-201f81b4b64143b3bd92f693de190526)
-- 
+
 ### Chap 6. 다양한 연관관계 매핑
 - [강현지](https://devwari.tistory.com/14)
 - [정성진](https://docs.google.com/presentation/d/1jIBajogAao8Vnt_y6ccfETdKj6rQt62BO5FeqO_hqck/edit?usp=sharing)
