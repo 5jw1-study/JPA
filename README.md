@@ -64,4 +64,4 @@
 - [정성진](https://docs.google.com/presentation/d/1jIBajogAao8Vnt_y6ccfETdKj6rQt62BO5FeqO_hqck/edit?usp=sharing)
 - [이우원](https://www.notion.so/6-9a1b06e75ee4482681b63c76a0ab4642)
 - [김주찬](http://blue564.cafe24.com/?p=419)
-- [정종욱] (https://www.notion.so/jong9/3-JPA-6-15762cd9d11841988aebea5a1e79b2c6)
+- [정종욱](https://www.notion.so/jong9/3-JPA-6-15762cd9d11841988aebea5a1e79b2c6)
