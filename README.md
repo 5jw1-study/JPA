@@ -69,3 +69,4 @@
 
 ### Chap 7. 고급 매핑
 - [김주찬](http://blue564.cafe24.com/?p=429)
+- [강현지](https://devwari.tistory.com/15)
