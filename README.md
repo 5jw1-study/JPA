@@ -71,3 +71,4 @@
 - [김주찬](http://blue564.cafe24.com/?p=429)
 - [강현지](https://devwari.tistory.com/15)
 - [이우원](https://www.notion.so/7-1376a8d54f294800b0386088549c8e71)
+- [정종욱](https://www.notion.so/jong9/4-JPA-7-3bb077f9cee2411a89b771f4e30913f3)
