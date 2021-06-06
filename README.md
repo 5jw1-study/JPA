@@ -29,8 +29,8 @@
   - 05.20 (목) 4, 5 ch 준비 10 ~ 12시
   - 05.25 (화) 6 ch 준비 10 ~ 11시
   - 06.01 (화) 7 ch 준비 10 ~ 11시
-  - 06.08 (화) 8 ch 
-  - 06.15 (화) 9, 10.2 ch
+  - 06.08 (화) 8 ch 준비 10 ~ 11시
+  - 06.15 (화) 9, 10.2 ch 준비 10 ~ 12시
 
 ## 발표 자료
 ### Chap 1. JPA 소개
@@ -76,4 +76,4 @@
 - [정종욱](https://www.notion.so/jong9/4-JPA-7-3bb077f9cee2411a89b771f4e30913f3)
 
 ### Chap. 8. 프록시와 연관관계 관리
-- 
+- [정성진](https://docs.google.com/presentation/d/1WrcpuJR6Vy5vu5iKZOq7DgjjU4gBKXAokkzQaUSdrlE/edit?usp=sharing)
