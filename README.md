@@ -77,3 +77,4 @@
 
 ### Chap. 8. 프록시와 연관관계 관리
 - [정성진](https://docs.google.com/presentation/d/1WrcpuJR6Vy5vu5iKZOq7DgjjU4gBKXAokkzQaUSdrlE/edit?usp=sharing)
+- [강현지](https://devwari.tistory.com/16)
