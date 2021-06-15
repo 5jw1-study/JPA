@@ -79,3 +79,4 @@
 - [정성진](https://docs.google.com/presentation/d/1WrcpuJR6Vy5vu5iKZOq7DgjjU4gBKXAokkzQaUSdrlE/edit?usp=sharing)
 - [강현지](https://devwari.tistory.com/16)
 - [정종욱](https://www.notion.so/jong9/5-JPA-8-1fbf14cd5cff4ff8a4eee6b226cb952f)
+- [김주찬](http://blue564.cafe24.com/?p=445)
