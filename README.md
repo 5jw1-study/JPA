@@ -83,3 +83,6 @@
 
 ### Chap. 9. 값 타입
 - [정성진](https://docs.google.com/presentation/d/1AKThOxUBSvzYdL4qeJwZPgQ9Atfk5OsEHQ9c4BbDyJo/edit?usp=sharing)
+
+### Chap. 10. 객체지향 쿼리 언어
+- 
