@@ -83,6 +83,7 @@
 
 ### Chap. 9. 값 타입
 - [정성진](https://docs.google.com/presentation/d/1AKThOxUBSvzYdL4qeJwZPgQ9Atfk5OsEHQ9c4BbDyJo/edit?usp=sharing)
+- [정종욱](https://www.notion.so/jong9/6-JPA-9-10-2-7ac37144dc7f4db3a748651d1a7c43a1)
 
 ### Chap. 10. 객체지향 쿼리 언어
 - 
