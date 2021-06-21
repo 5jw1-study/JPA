@@ -82,4 +82,4 @@
 - [김주찬](http://blue564.cafe24.com/?p=445)
 
 ### Chap. 9. 값 타입
-- 
+- [정성진](https://docs.google.com/presentation/d/1AKThOxUBSvzYdL4qeJwZPgQ9Atfk5OsEHQ9c4BbDyJo/edit?usp=sharing)
