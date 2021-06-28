@@ -81,6 +81,7 @@
 - [강현지](https://devwari.tistory.com/16)
 - [정종욱](https://www.notion.so/jong9/5-JPA-8-1fbf14cd5cff4ff8a4eee6b226cb952f)
 - [김주찬](http://blue564.cafe24.com/?p=445)
+- [이우원](https://www.notion.so/8-c8fc885af5d44d9d97c328e833c058c2)
 
 ### Chap. 9. 값 타입
 - [정성진](https://docs.google.com/presentation/d/1AKThOxUBSvzYdL4qeJwZPgQ9Atfk5OsEHQ9c4BbDyJo/edit?usp=sharing)
