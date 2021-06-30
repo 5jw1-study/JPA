@@ -91,3 +91,4 @@
 ### Chap. 10. 객체지향 쿼리 언어
 - [김주찬](http://blue564.cafe24.com/?p=459)
 - [강현지](https://devwari.tistory.com/18)
+- [이우원](https://www.notion.so/10-ee8c56a401174839925d770925268902)
