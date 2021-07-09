@@ -96,3 +96,5 @@
 - [이우원](https://www.notion.so/10-ee8c56a401174839925d770925268902)
 - [정종욱](https://www.notion.so/jong9/7-JPA-10-2-b924a835bbb84adc999c25de4e41e50e)
 
+### Chap. 10. 객체지향 쿼리 언어2
+- [김주찬](http://blue564.cafe24.com/?p=477)
