@@ -99,3 +99,4 @@
 - [김주찬](http://blue564.cafe24.com/?p=477)
 - [강현지](https://devwari.tistory.com/19)
 - [정성진](https://docs.google.com/presentation/d/1WdPsp4uvF1atrmd0b7eI-rFKnAlClSl3uEyOaVlsIA0/edit?usp=sharing)
+- [이우원](https://www.notion.so/10-4-7-78024338975a44a9ac589acdc8d42357)
