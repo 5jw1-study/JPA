@@ -103,4 +103,4 @@
 - [이우원](https://www.notion.so/10-4-7-78024338975a44a9ac589acdc8d42357)
 
 ### Chap. 12. 스프링 데이터 JPA
-- [김주찬] (http://blue564.cafe24.com/?p=488)
+- [김주찬](http://blue564.cafe24.com/?p=488)
