@@ -105,3 +105,4 @@
 ### Chap. 12. 스프링 데이터 JPA
 - [김주찬](http://blue564.cafe24.com/?p=488)
 - [정성진](https://docs.google.com/presentation/d/1vQitedeQeeFV-K2Rpbc80XJaiZNy_6MwR2qy0D-2PqY/edit?usp=sharing)
+- [정종욱](https://www.notion.so/jong9/10-JPA-12-918d0ba6418c4198b500ece1cf900409)
