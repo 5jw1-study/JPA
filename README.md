@@ -108,3 +108,7 @@
 - [정성진](https://docs.google.com/presentation/d/1vQitedeQeeFV-K2Rpbc80XJaiZNy_6MwR2qy0D-2PqY/edit?usp=sharing)
 - [정종욱](https://www.notion.so/jong9/10-JPA-12-918d0ba6418c4198b500ece1cf900409)
 - [강현지](https://devwari.tistory.com/20)
+
+### Chap. 13. 웹 애플리케이션과 영속성 관리
+- [김주찬](http://blue564.cafe24.com/?p=498)
+- 
