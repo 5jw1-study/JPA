@@ -111,3 +111,4 @@
 
 ### Chap. 13. 웹 애플리케이션과 영속성 관리
 - [김주찬](http://blue564.cafe24.com/?p=498)
+- [강현지](https://devwari.tistory.com/21)
