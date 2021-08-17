@@ -114,3 +114,4 @@
 - [강현지](https://devwari.tistory.com/21)
 - [정성진](https://docs.google.com/presentation/d/1SR12BQoKe_jA6fOYyjry5xQBFp23Bp48H0pMZeDyDjA/edit?usp=sharing)
 - [이우원](https://hallowed-boron-87e.notion.site/13-a99f4daae97b4a78978724cdfa552f9b)
+- [정종욱](https://jong9.notion.site/11-JPA-13-f0a105dad0d942e7b32d59f97bcd076d)
