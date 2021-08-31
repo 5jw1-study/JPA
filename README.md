@@ -120,3 +120,5 @@
 ### Chap. 14. 컬렉션과 부가 기능
 - [강현지](https://devwari.tistory.com/22)
 - [정성진](https://docs.google.com/presentation/d/1H6bHvOFD9y-tNDSOHHzx7168GtJa1X0CeXx_vDFnUSs/edit?usp=sharing)
+- [김주찬](http://blue564.cafe24.com/?p=512)
+
