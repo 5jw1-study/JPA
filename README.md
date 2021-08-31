@@ -122,4 +122,5 @@
 - [정성진](https://docs.google.com/presentation/d/1H6bHvOFD9y-tNDSOHHzx7168GtJa1X0CeXx_vDFnUSs/edit?usp=sharing)
 - [김주찬](http://blue564.cafe24.com/?p=512)
 - [정종욱](https://jong9.notion.site/14-JPA-14-c5224196d9f643088460a527d7c944ba)
+- [이우원](https://hallowed-boron-87e.notion.site/14-b49d8ba10f1a43f88ed76b6157af9b95)
 
