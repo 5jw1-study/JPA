@@ -126,4 +126,5 @@
 - [이우원](https://hallowed-boron-87e.notion.site/14-b49d8ba10f1a43f88ed76b6157af9b95)
 
 ### Chap. 15. 고급 주제와 성능 최적화
+- [정성진](https://docs.google.com/presentation/d/1SmHsBCdHGyie_ob0tDsIr_zHjr7H3cKhqLuzr0bbdJI/edit?usp=sharing)
 
