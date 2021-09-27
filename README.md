@@ -134,3 +134,4 @@
 
 ### Chap. 16. 트랜잭션과 락, 2차 캐시
 - [강현지](https://devwari.tistory.com/24)
+- [정성진](https://docs.google.com/presentation/d/1PKr1MfYUI4_iBU-k-_Lwp0eZDGLGBXp2hx17Mb1dxdM/edit?usp=sharing)
